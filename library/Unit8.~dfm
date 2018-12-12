@@ -1,0 +1,23 @@
+object Form8: TForm8
+  Left = 583
+  Top = 426
+  Width = 295
+  Height = 137
+  Caption = #38169#35823#25552#31034
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 48
+    Top = 40
+    Width = 168
+    Height = 13
+    Caption = #28120#27760#25968#30446#36229#36807#20070#24211#20013#21097#20313#25968#30446#65281
+  end
+end
