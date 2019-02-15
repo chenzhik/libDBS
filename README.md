@@ -1,14 +1,8 @@
-# libDBS
-2018秋季学期-数据库课程大作业
+# library database system
+2018 database course homework
 
-用户登录：
+Login -- details from huangwen
 
-user id：yuanpinbo
+user id：
 
-password：database
-
-或者使用
-
-user id：王者荣耀
-
-password：game
+password：
